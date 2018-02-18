@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Studycase2</string>
+    <string name="pesan_sekarang">PESAN SEKARANG</string>
+    <string name="pilih_menu">Pilih Menu : </string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="identitas_pemesan">Identitas Pemesan:</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="address">Address</string>
+    <string name="note">Note</string>
+    <string name="pilih_pesanan">Pilih Pesanan</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+
+    <string-array name="meja_array">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+        <item>Meja 4</item>
+    </string-array>
+</resources>
